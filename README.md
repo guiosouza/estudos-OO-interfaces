@@ -1,7 +1,7 @@
 # ESTUDO DE ORIENTAÇÃO A OBJETO COM `INTERFACE`
 Repositório dedicado a aprender sobre orientação a objetos com interfaces, composição, polimorfismo em muitos níveis
 
-## QUESTÃO PROBLEMA
+## QUESTÃO PROBLEMA #01
 
 Uma empresa deseja automatizar o processamento de seus contratos. O processamento de um contrato consiste em gerar as parcelas a serem pagas para aquele `contrato`, com base no número de meses desejado.
 
@@ -12,4 +12,12 @@ Faça um programa que leia os dados de um contrato (número do contrato, data do
 Exemplo de como deverá ser a impressão no console:
 
 ![image](https://user-images.githubusercontent.com/78989152/182848602-fd82511e-fc6d-4ec1-9a3e-a0ca79d5561c.png)
+
+## DIAGRAMA DE CLASSES
+
+### Serviços
+![image](https://user-images.githubusercontent.com/78989152/182858760-da7e9e27-7659-43b8-a247-68c254d0ef32.png)
+
+### Entidades
+![image](https://user-images.githubusercontent.com/78989152/182859025-4b078366-0cc2-4c6a-8318-76f97332a412.png)
 
